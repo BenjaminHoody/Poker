@@ -7,6 +7,8 @@ public class Poker
 		static ArrayList<Card> playerOneHand = new ArrayList<Card>();
 		static ArrayList<Card> playerTwoHand = new ArrayList<Card>();
 		
+		//test
+		
 		public static void main(String[] args)
 			{			
         Deck.fillDeck();
