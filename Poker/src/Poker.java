@@ -7,8 +7,6 @@ public class Poker
 		static ArrayList<Card> playerOneHand = new ArrayList<Card>();
 		static ArrayList<Card> playerTwoHand = new ArrayList<Card>();
 		
-
-		
 		static boolean checkingForHand = true;
 		static boolean checkingForHand2 = true;
 		static int playerOneWinningPoints = 0;
