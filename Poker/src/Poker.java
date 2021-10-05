@@ -7,7 +7,7 @@ public class Poker
 		static ArrayList<Card> playerOneHand = new ArrayList<Card>();
 		static ArrayList<Card> playerTwoHand = new ArrayList<Card>();
 		
-//<<<<<<< HEAD
+
 		
 		static boolean checkingForHand = true;
 		static boolean checkingForHand2 = true;
@@ -15,9 +15,7 @@ public class Poker
 		static int playerTwoWinningPoints = 0;
 		static Card highestCard;
 		static Card highestCard2;
-//=======
-//		//test
-//>>>>>>> refs/remotes/origin/master
+
 		
 		public static void main(String[] args)
 			{			
