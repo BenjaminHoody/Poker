@@ -14,8 +14,7 @@ public class Poker
 		static Card highestCard;
 		static Card highestCard2;
 
-		
-		
+	
 		
 		
 		public static void main(String[] args)
